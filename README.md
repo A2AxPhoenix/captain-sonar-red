@@ -3,7 +3,7 @@
 ### Group Members:
 - **Justis Mencarelli**: UX/UI
 - **John Brereton**: Graphics
-- **Nicholas Urruchi**: Multithreading/Networking
+- **Nicolas Urruchi**: Multithreading/Networking
 - **Benjamin Hallaway**: Multithreading/Networking
 
 
