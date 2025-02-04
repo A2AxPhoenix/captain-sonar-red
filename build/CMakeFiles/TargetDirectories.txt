@@ -1,0 +1,3 @@
+/home/mencarelli/captain_sonar/build/CMakeFiles/sonar.dir
+/home/mencarelli/captain_sonar/build/CMakeFiles/edit_cache.dir
+/home/mencarelli/captain_sonar/build/CMakeFiles/rebuild_cache.dir

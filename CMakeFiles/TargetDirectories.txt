@@ -1,0 +1,3 @@
+/home/wkerney/CSCI/homework/captain_sonar/CMakeFiles/rebuild_cache.dir
+/home/wkerney/CSCI/homework/captain_sonar/CMakeFiles/edit_cache.dir
+/home/wkerney/CSCI/homework/captain_sonar/CMakeFiles/sonar.dir
