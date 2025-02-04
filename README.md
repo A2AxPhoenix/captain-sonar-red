@@ -1,10 +1,10 @@
 # Captain Sonar v3.0 - RED TEAM
 
 ### Group Members:
-- **Justis Mencarelli**: Networking/Multithreading
+- **Justis Mencarelli**: UX/UI
 - **John Brereton**: Graphics
-- **Nicholas Urruchi**: UX/UI/Multithreading/Networking
-- **Benjamin Hallaway**: UX/UI/Multithreading/Networking
+- **Nicholas Urruchi**: Multithreading/Networking
+- **Benjamin Hallaway**: Multithreading/Networking
 
 
 
